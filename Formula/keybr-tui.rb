@@ -1,8 +1,8 @@
 class KeybrTui < Formula
   desc "Terminal UI for the keybr.com touch-typing practice engine"
   homepage "https://github.com/PannenetsF/keybr.com/tree/main/packages/tui"
-  url "https://github.com/PannenetsF/keybr.com/releases/download/tui-v0.1.1/keybr-tui-0.1.1.tgz"
-  sha256 "7c066183895bfcce0b2374c2ab1b67bec6414af8903352c48d8bbde894c27e47"
+  url "https://github.com/PannenetsF/keybr.com/releases/download/tui-v0.1.2/keybr-tui-0.1.2.tgz"
+  sha256 "e61efbb631d58ab72008b6f6e74d676bd780a2dc458f167651afc98ec46f0586"
   license "AGPL-3.0-only"
 
   depends_on "node"
